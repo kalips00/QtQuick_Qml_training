@@ -22,14 +22,9 @@ qt_add_qml_module(appcontacts
     VERSION 1.0
     QML_FILES qml/Main.qml
         qml/library/CTokens.qml
-        qml/library/CTextStyle.qml
         qml/library/CText.qml
-        qml/library/CButton.qml
+        qml/library/CTextStyle.qml
         qml/project/ContactModel.qml
-        qml/library/CAvatar.qml
-        qml/project/ContactCard.qml
-        qml/project/ContactPage.qml
-        qml/project/ActivityPanel.qml
     RESOURCES
         qml/resources/pictures/andrea_bertelli.png
         qml/resources/pictures/andrew_petrin.png
