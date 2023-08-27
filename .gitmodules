@@ -1,0 +1,3 @@
+[submodule "tools/quick-project"]
+	path = tools/quick-project
+	url = https://github.com/kalips00/quick-project.git
